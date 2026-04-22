@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Idaho, US",
-  "export_job_id": "3ca4b512-8851-4e97-9b1d-64f07e4989b9",
+  "export_job_id": "38744875-44ea-4867-a026-d71849fef898",
   "github_org": "Beamstation-Datasets",
   "id_short": 498228,
   "location_name": "Idaho",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-idaho-us-sample-498228",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/498228/beamstation_498228_restaurants-us-id_SAMPLE_DIST.csv",
-  "sample_pct": 8.7,
+  "sample_pct": 8.33,
   "sample_records": 4,
-  "sample_sha256": "6e0870b24d105526aa42e515dcb6f13cc5060e04b838c2860670f1bba18a6d4f",
-  "sample_size_bytes": 33374,
-  "total_records": 46,
-  "updated_at": "2026-04-15T07:47:11.312107+00:00"
+  "sample_sha256": "f8f5b599fd6950ac5cfb490438f8defd0a6696f366639086a0828fd4b9d4000b",
+  "sample_size_bytes": 30320,
+  "total_records": 48,
+  "updated_at": "2026-04-22T14:17:30.938156+00:00"
 }
