@@ -9,9 +9,9 @@
 | Dataset ID | `498228` |
 | Location | Idaho |
 | Category | Restaurants |
-| Full dataset size | 46 records |
-| Free sample size | 4 records (8.7%) |
-| Last export | 2026-04-15T07:47:11.312107+00:00 |
+| Full dataset size | 48 records |
+| Free sample size | 4 records (8.33%) |
+| Last export | 2026-04-22T14:17:30.938156+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-idaho-us-sample-498228/releases/download/sample-latest/beamstation_498228_restaurants-us-id_SAMPLE_DIST.csv) |
 
 ## What is in this sample
