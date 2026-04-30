@@ -1,12 +1,12 @@
 {
-  "export_job_id": "38744875-44ea-4867-a026-d71849fef898",
+  "export_job_id": "ed7754e5-2c36-4a85-87cf-e62e73d1cd36",
   "id_short": 498228,
-  "published_at": "2026-04-22T19:49:03Z",
+  "published_at": "2026-04-30T07:31:24Z",
   "repo_name": "top-50-restaurant-category-dominators-in-idaho-us-sample-498228",
   "sample_asset_name": "beamstation_498228_restaurants-us-id_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/498228/beamstation_498228_restaurants-us-id_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "f8f5b599fd6950ac5cfb490438f8defd0a6696f366639086a0828fd4b9d4000b",
-  "sample_size_bytes": 30320,
-  "total_records": 48
+  "sample_records": 5,
+  "sample_sha256": "8110ae1ad6507b4ca86bd3e3a7982fd3722fc1538bed21ef42eade1970f1d0f8",
+  "sample_size_bytes": 37938,
+  "total_records": 54
 }
